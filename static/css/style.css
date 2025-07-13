@@ -55,10 +55,6 @@ footer {
     padding: 10px;
   }
   
-  #mission {
-    text-shadow: 2px 2px 5px dimgray;
-  }
-  
   #caplet::first-letter {
     font-size: 30px;
     color: dodgerblue;
@@ -93,17 +89,6 @@ footer {
     padding: 10px 25px;
   }
   
-  #contact {
-    text-shadow: 2px 2px 5px dimgray;
-  }
-  
-  #mission-target,
-  #skills-target,
-  #contact-target {
-    position: relative;
-    top: -100px;
-  }
-  
   a:hover {
     color: red;
     /* background-color: transparent; */
@@ -129,5 +114,9 @@ footer {
   
   .carousel-caption {
     z-index: 1;
+    color: lime;
+  }
+
+  #resume {
     color: lime;
   }
