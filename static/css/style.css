@@ -85,7 +85,7 @@ footer {
   }
   
   .icon:hover {
-    color: lime;
+    color: dodgerblue;
   }
   
   section#contact-section-target {
@@ -104,29 +104,11 @@ footer {
     top: -100px;
   }
   
-  /* a:link {
-    color: white;
-    background-color: transparent;
-    text-decoration: none;
-  }
-  
-  a:visited {
-    color: cyan;
-    background-color: transparent;
-    text-decoration: none;
-  } */
-  
   a:hover {
     color: red;
     /* background-color: transparent; */
     text-decoration: none;
   }
-  
-  /* a:active {
-    color: white;
-    background-color: transparent;
-    text-decoration: underline;
-  } */
   
   .carousel-item img {
     object-fit: fill;
