@@ -114,7 +114,7 @@ footer {
   
   .carousel-caption {
     z-index: 1;
-    color: red;
+    color: black bold;
   }
 
   #resume {
