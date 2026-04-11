@@ -114,9 +114,9 @@ footer {
   
   .carousel-caption {
     z-index: 1;
-    color: lime;
+    color: red;
   }
 
   #resume {
-    color: lime;
+    color: red;
   }
